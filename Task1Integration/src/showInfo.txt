@@ -1,0 +1,2 @@
+Hex: 1f Decimal: 31 Octal: 37 Binary: 11111 Speed: 87
+ LED - red: 31 green: 93 blue 31
